@@ -1,9 +1,5 @@
 # 项目配置
 
-> [!Note]
->
-> 添加Gitbook的基本信息和添加Gitbook插件
-
 ## 基本信息
 
 创建配置文件并名为book.json，然后编译书籍
@@ -71,7 +67,7 @@ npm install gitbook-plugin-xxx
 
 插件配置
 
-> !Note]
+> [!Note]
 >
 > 安装一些插件之后，可能需要配置内容，例如配置页脚内容、Github
 
@@ -137,7 +133,7 @@ $ gitbook serve
 
 ## 插件大全
 
-> ![Note]
+> [!Note]
 >
 > 记录一些常用的插件，每次安装插件都需要重新安装 gitbook install
 
