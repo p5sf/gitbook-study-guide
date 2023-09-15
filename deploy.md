@@ -35,6 +35,7 @@ $ git push -u origin master
 
 ```shell
 git subtree push --prefix=_book origin gh-pages
+git subtree split --prefix=public -b gh-pages
 ```
 
 
